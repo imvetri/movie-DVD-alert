@@ -1,0 +1,24 @@
+{
+  "name": "moviedvdalert",
+  "version": "1.0.0",
+  "description": "emails you on dvd release of a movie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imvetri/movie-DVD-alert.git"
+  },
+  "keywords": [
+    "email",
+    "dvdalert",
+    "movies"
+  ],
+  "author": "vetrivel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imvetri/movie-DVD-alert/issues"
+  },
+  "homepage": "https://github.com/imvetri/movie-DVD-alert#readme"
+}
