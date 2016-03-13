@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/imvetri/movie-DVD-alert/issues"
   },
-  "homepage": "https://github.com/imvetri/movie-DVD-alert#readme"
+  "homepage": "https://github.com/imvetri/movie-DVD-alert#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
